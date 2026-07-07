@@ -50,7 +50,7 @@ main p{
 }
 button{
     margin-top: 30px;
-    padding: 12px, 25px;
+    padding: 50px, 50px;
     font-size: 20px;
     background-color: rgb(205, 91, 102);
     color:white;
@@ -122,4 +122,10 @@ p{
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+.catGif{
+    display:block;
+    margin: 30px auto;
+    width: 300px;
+    border-radius: 10px;
 }
