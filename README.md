@@ -2,9 +2,11 @@
 Skills based assessment based on three-paged website with using HTML and CSS.
 
 # User Stories
-* As user I want to learn about kitten care so that I can foster
-* As user I want to able to navigate through the website so that I can find things
-* As user I want to reach out to the shelter so that I can foster
+* As a user, I want to learn about kitten fostering so that I can see if fostering is right for me. 
+* As a user, I want to view helpful kitten care information so that I can better care for foster kittens.
+* As a user, I want to see a list of kitten care tips so that I know what supplies are needed.
+* As a user, I want to fill out a contact form so that I can reach out to become a foster parent.
+* As a user, I want to enjoy pictures and a cat gif so that I feel engaged. 
 
 # Reflection Questions
 For the first question regarding what I could have done differently during the planning stages of the project to make execution easier was create the userstories before coding.
