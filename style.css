@@ -129,6 +129,12 @@ p{
     width: 300px;
     border-radius: 10px;
 }
+ .catGif{
+       transition: transform 1s;
+}
+.catGif:hover{
+    transform: rotate(360deg);
+}
 select{
     padding: 10px;
     font-size: 18px;
@@ -152,7 +158,7 @@ th, tb{
     padding: 10px;
     text-align: center;
 }
-.floating, .catGif{
+.floating{
     animation: float 2s infinite;
 }
 @keyframes float{
