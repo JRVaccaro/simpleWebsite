@@ -1,5 +1,20 @@
 # Simple Website
-Skills based assessment based on three-paged website with using HTML and CSS.
+Skills based assessment based on three-paged website with using HTML and CSS. This application is a simple website showcasing fostering kittens.
+
+Users can:
+* Click on Homepage, Helpful Info Page, and Kitten Foster Hub Page.
+* Fill out a form with their information if they want to foster
+* Click on a drop down menu
+* Read some information on kitten care
+* Hover over a gif that will spin
+
+
+# Future Work
+* Complete the website with the full information 
+* Adjust pages to appear more profesional and easier to navigate 
+* To view kittens that have been fostered 
+* Read success stories 
+
 
 # User Stories
 * As a user, I want to learn about kitten fostering so that I can see if fostering is right for me. 
@@ -7,6 +22,7 @@ Skills based assessment based on three-paged website with using HTML and CSS.
 * As a user, I want to see a list of kitten care tips so that I know what supplies are needed.
 * As a user, I want to fill out a contact form so that I can reach out to become a foster parent.
 * As a user, I want to enjoy pictures and a cat gif so that I feel engaged. 
+
 
 # Reflection Questions
 For the first question regarding what I could have done differently during the planning stages of the project to make execution easier was create the userstories before coding.
